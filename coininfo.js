@@ -16758,10 +16758,10 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 22027,
     websites: [
-    "https://backalley.ai",
+      "https://backalley.ai",
     ],
     explorers: [
-    "https://explorer.chainweb.com",
+      "https://explorer.chainweb.com",
     ],
     medium: "https://medium.com/@backalley",
     discord: "",
