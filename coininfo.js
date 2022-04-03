@@ -16781,7 +16781,7 @@ const coininfo = {
     coingeckoID: "",
     auditInfos: [],
     whitepaper: [],
- }
+  }
 };
 
 export default {
