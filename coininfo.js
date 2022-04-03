@@ -16755,60 +16755,33 @@ const coininfo = {
   },
   
   Backalley: {
-
-description: "Backalley is a permissionless launchpad built on the Kadena blockchain to democratize access to fundraising through a fair, secure, cheap, and fast decentralized platform. We build on the "fixed swap" pools model, which guarantees fairness by fixing the swap price, benefiting investors and pool owners through more price transparency and balanced ownership.",
-
-   total_supply: 1000000000,
-
-   circulating_supply: 22027,
-
-   websites: [
-
+    description: "Backalley is a permissionless launchpad built on the Kadena blockchain to democratize access to fundraising through a fair, secure, cheap, and fast decentralized platform. We build on the "fixed swap" pools model, which guarantees fairness by fixing the swap price, benefiting investors and pool owners through more price transparency and balanced ownership.",
+    total_supply: 1000000000,
+    circulating_supply: 22027,
+    websites: [
      "https://backalley.ai",
    ],
-
-   explorers: [
-
+    explorers: [
      "https://explorer.chainweb.com",
-
    ],
-
-   medium: "https://medium.com/@backalley",
-
-   discord: "",
-
-   telegram: "https://t.me/backalley_official",
-
-   bitcointalk: "",
-
-   facebook: "",
-
-   twitter: "https://twitter.com/backalleyio",
-
-   reddit: "",
-
-   repository: "",
-
-   youtube: "",
-
-   instagram: "",
-
-   tiktok: "",
-
-   twitch: "",
-
-   linkedin: "",
-
-   cryptoCompareID: "",
-
-   coinMarketCapID: "",
-
-   coingeckoID: "",
-
-   auditInfos: [],
-
-   whitepaper: [],
-
+     medium: "https://medium.com/@backalley",
+     discord: "",
+     telegram: "https://t.me/backalley_official",
+     bitcointalk: "",
+     facebook: "",
+     twitter: "https://twitter.com/backalleyio",
+     reddit: "",
+     repository: "",
+     youtube: "",
+     instagram: "",
+     tiktok: "",
+     twitch: "",
+     linkedin: "",
+     cryptoCompareID: "",
+     coinMarketCapID: "",
+     coingeckoID: "",
+     auditInfos: [],
+     whitepaper: [],
  },
 };
 
